@@ -57,9 +57,9 @@ LSFT_T(KC_CAPS), KC_A  , KC_S  , KC_D  , KC_F  , KC_G  ,                        
 
   [_FN_LAYER] = LAYOUT_5x6(
      KC_TILD,KC_EXLM, KC_AT ,KC_HASH,KC_DLR ,KC_PERC,                        KC_CIRC,KC_AMPR,KC_ASTR,KC_LPRN,KC_RPRN,KC_UNDS,
-     _______,KC_BRIU,KC_PGUP,KC_UP  ,KC_PGDN,KC_VOLU,                        KC_VOLU,KC_PGUP,KC_UP  ,KC_PGDN,KC_NO  ,KC_PIPE,
-     KC_LSFT,KC_BRID,KC_LEFT,KC_DOWN,KC_RGHT,KC_VOLD,                        KC_VOLD,KC_LEFT,KC_DOWN,KC_RGHT,KC_MINS,RSFT_T(KC_DQUO),
-     _______,KC_F5  ,KC_F6  ,KC_F7  ,KC_F8  ,KC_F10 ,                        KC_MUTE,KC_END  , KC_P2 , KC_P3 ,KC_QUES,_______,
+     _______,KC_BRIU,KC_PGUP,KC_UP  ,KC_PGDN,KC_VOLU,                        KC_VOLU,KC_PGUP,KC_UP  ,KC_PGDN,KC_BRIU,KC_PIPE,
+     KC_LSFT,KC_BRID,KC_LEFT,KC_DOWN,KC_RGHT,KC_VOLD,                        KC_VOLD,KC_LEFT,KC_DOWN,KC_RGHT,KC_BRID,RSFT_T(KC_DQUO),
+     _______,KC_F5  ,KC_F6  ,KC_F7  ,KC_F8  ,KC_F10 ,                        KC_MUTE,KC_END  , KC_P2 , KC_P3,KC_QUES,_______,
                      _______,_______,                                                        _______, _______,
                                              _______,_______,            _______,_______,
                                              _______,_______,            _______,_______,
